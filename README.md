@@ -1,2 +1,6 @@
 # zedo_shop
-Test
+Script Shop en RageUI 🙈
+
+Discord : https://discord.gg/N9BZkZgAH4
+
+
