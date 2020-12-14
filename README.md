@@ -1,0 +1,2 @@
+# zedo_shop
+Test
